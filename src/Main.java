@@ -4,7 +4,7 @@ public class Main {
         maxim.message();
         Human anya = new Human("Аня", "Москва", 1993, "методист образовательных программ");
         anya.message();
-        Human katia = new Human("Катя", "Клининград", 1992, "продакт-менеджер");
+        Human katia = new Human("Катя", "Калининград", 1992, "продакт-менеджер");
         katia.message();
         Human artyom = new Human("Артём", "Москва", 1995, "директор по развитию бизнеса");
         artyom.message();
